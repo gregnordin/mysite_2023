@@ -1,0 +1,1 @@
+3/7/23 - "Follow [Deploy your website with Digital Ocean App Platform](https://docs.digitalocean.com/developer-center/how-to-deploy-a-static-website-to-the-cloud-with-digitalocean-app-platform/) to create basic static website.
